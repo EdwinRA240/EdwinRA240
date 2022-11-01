@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @EdwinRA240.
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning < React /> 🌐.
+- 📫 How to reach me < edwinra240@gmail.com />.
